@@ -1,0 +1,91 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://www.buildingblocksandbridges.com
+display_url: https://www.buildingblocksandbridges.com
+logo_url: /favicon.svg
+
+collections:
+  - name: "testimonials"
+    label: "Testimonials"
+    label_singular: "Testimonial"
+    description: "Add, edit or remove testimonials from schools and partners. The 'Featured' testimonial appears as the big pull-quote on the homepage."
+    files:
+      - file: "src/data/testimonials.json"
+        label: "Testimonials"
+        name: "testimonials"
+        fields:
+          - label: "Testimonials"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.role}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string", hint: "e.g. J MacArthur" }
+              - { label: "Role / Organisation", name: "role", widget: "string", hint: "e.g. Headteacher, The Willows" }
+              - { label: "Initials", name: "initials", widget: "string", hint: "Used as fallback avatar, e.g. JM" }
+              - { label: "Quote", name: "quote", widget: "text", hint: "The full testimonial. Use a blank line between paragraphs." }
+              - label: "Colour accent"
+                name: "color"
+                widget: "select"
+                options: ["purple", "orange", "blue", "green", "pink", "amber"]
+                default: "purple"
+              - { label: "Featured (use as big homepage pull-quote)", name: "featured", widget: "boolean", default: false, hint: "Only one testimonial should be marked featured at a time." }
+
+  - name: "studentvoices"
+    label: "Student Voices"
+    label_singular: "Student Voice"
+    description: "Short quotes from young people, shown on the homepage and service pages."
+    files:
+      - file: "src/data/studentVoices.json"
+        label: "Student Voices"
+        name: "studentvoices"
+        fields:
+          - label: "Student Voices"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.pathway}} — Age {{fields.age}}"
+            fields:
+              - { label: "Quote", name: "quote", widget: "text" }
+              - { label: "Age", name: "age", widget: "number", value_type: "int", min: 5, max: 25 }
+              - label: "Pathway"
+                name: "pathway"
+                widget: "select"
+                options: ["music", "mentoring", "sport", "animal"]
+
+  - name: "images"
+    label: "Photos"
+    description: "Upload new photos for the homepage, service pages, and Who We Are page. Click on any field, then 'Choose an image' to upload a new one."
+    files:
+      - file: "src/data/images.json"
+        label: "Photos"
+        name: "images"
+        fields:
+          - { label: "Hero photo (homepage main image)", name: "hero", widget: "image", required: true }
+          - { label: "About photo (Who We Are page)", name: "about", widget: "image", required: true }
+          - { label: "Music Enrichment — main photo (also shown on home card)", name: "music", widget: "image", required: true }
+          - { label: "Music Enrichment — second photo (shown mid-page on the Music page)", name: "music2", widget: "image", required: false }
+          - { label: "Mentoring — main photo (also shown on home card)", name: "mentoring", widget: "image", required: true }
+          - { label: "Mentoring — second photo (shown mid-page on the Mentoring page)", name: "mentoring2", widget: "image", required: false }
+          - { label: "Sporting Enrichment — main photo (also shown on home card)", name: "sport", widget: "image", required: true }
+          - { label: "Sporting Enrichment — second photo (shown mid-page on the Sport page)", name: "sport2", widget: "image", required: false }
+          - { label: "Animal Therapy — main photo (also shown on home card)", name: "animal", widget: "image", required: true }
+          - { label: "Animal Therapy — second photo (shown mid-page on the Animal Therapy page)", name: "animal2", widget: "image", required: false }
+
+  - name: "config"
+    label: "Contact Details"
+    description: "Change phone, email, and other site-wide details."
+    files:
+      - file: "src/data/config.json"
+        label: "Contact Details"
+        name: "config"
+        fields:
+          - { label: "Phone (display)", name: "phone", widget: "string", hint: "e.g. 07871 758614" }
+          - { label: "Phone (raw, no spaces)", name: "phoneRaw", widget: "string", hint: "e.g. 07871758614 — used for click-to-call" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Years of experience", name: "yearsExperience", widget: "string", hint: "Shown in the hero badge, e.g. 15+" }
+          - { label: "Credentials line (footer)", name: "credentials", widget: "text" }
+          - { label: "Formspree Form ID", name: "formspreeId", widget: "string", hint: "From your Formspree dashboard — looks like 'xayzbcde'" }

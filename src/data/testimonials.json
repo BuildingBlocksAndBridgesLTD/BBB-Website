@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "name": "J MacArthur",
+      "role": "Headteacher, The Willows",
+      "initials": "JM",
+      "quote": "Jamah understands that children have different starting points and individual needs. He takes the time to observe and understand these — children feel included and are engaged as a result. They respond well to Jamah and they understand that he wants them to each fulfil their potential. Jamah successfully adapts lessons and his instructions/teaching to meet the needs of children with SEND.\n\nJamah has excellent subject knowledge but more importantly he is skilled at communicating his knowledge to children of all abilities and of varying needs.",
+      "color": "purple",
+      "featured": true
+    },
+    {
+      "name": "S Cooke",
+      "role": "Headteacher, The Avenue",
+      "initials": "SC",
+      "quote": "Through the motivating vehicles of sport, cooking and music Jamah has supported our pupils as a mentor. Encouraging them to reflect, behave appropriately, engage in their learning, understand compromise, and develop improved social and life skills, whilst making positive choices in each aspect of their life.\n\nJamah has proved to be an excellent role model in terms of his presentation, communication and calm approach.",
+      "color": "orange",
+      "featured": false
+    },
+    {
+      "name": "C Husbands",
+      "role": "Manager, Brighter Steps",
+      "initials": "CH",
+      "quote": "Jamah has played a vital role in supporting the wellbeing, development, and day-to-day care of the young people in our services. His approach is always person-centered, respectful, and tailored to the unique needs of each individual. Whether assisting with educational engagement, emotional regulation, or daily living skills, Jamah brings a calm and empathetic presence that has a positive impact on the young people he supports.\n\nJamah displays remarkable insight in balancing empathy and support with appropriate boundaries, a quality that stood out particularly in his work within school settings.",
+      "color": "blue",
+      "featured": false
+    },
+    {
+      "name": "M. Genis",
+      "role": "Artistic Director, CultureMix Arts",
+      "initials": "MG",
+      "quote": "Over the years, Jamah has developed into a dynamic and inspirational educator. His unique approach blends music, sport, and animal welfare to positively influence young people, particularly those with special educational needs. His passion and empathy consistently shine through, making a meaningful impact on the lives of those he works with.",
+      "color": "green",
+      "featured": false
+    }
+  ]
+}
