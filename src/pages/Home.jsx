@@ -44,6 +44,13 @@ export default function Home() {
             <div className="hero-eyebrow">Trusted by schools & local services</div>
             <h1>Building Blocks<br/>and Bridges</h1>
             <p className="hero-tagline">Mentoring, empowering and supporting young people through creativity, movement and meaningful connections.</p>
+
+            <div className="hero-testimonial">
+              <div className="hero-testimonial-mark">&ldquo;</div>
+              <div className="hero-testimonial-text">Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence and express themselves through rhythm and sound.</div>
+              <div className="hero-testimonial-attr">— Music programme partner</div>
+            </div>
+
             <p className="hero-sub">Inclusive programmes for young people aged 8 to 18, delivered in schools, alternative provision and community settings.</p>
             <div className="hero-actions">
               <Link to="/get-in-contact" className="btn btn-primary">Make an enquiry <i className="ti ti-arrow-right"></i></Link>
@@ -51,13 +58,16 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-image-wrap">
+            <div className="hero-headshot">
+              <img src={images.about} alt="Jamah Lynam, founder" />
+            </div>
             <div className="hero-image">
               <img src={images.hero} alt="Jamah Lynam, founder of Building Blocks and Bridges" />
             </div>
             <div className="hero-badge">
               <div className="hero-badge-icon"><i className="ti ti-award"></i></div>
               <div className="hero-badge-text">
-                <div className="hero-badge-title">15+ years experience</div>
+                <div className="hero-badge-title">10+ years experience</div>
                 <div className="hero-badge-sub">in youth development</div>
               </div>
             </div>
