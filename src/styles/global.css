@@ -152,7 +152,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
     max-height: 0; overflow: hidden;
     transition: max-height 0.2s;
   }
-  .nav-dropdown-menu.open { max-height: 400px; }
+  .nav-dropdown-menu.open { max-height: 400px; transform: none; }
 }
 
 /* ============ HERO ============ */
@@ -933,4 +933,26 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   position: absolute; width: 1px; height: 1px; padding: 0;
   margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0);
   white-space: nowrap; border-width: 0;
+}
+
+/* ============ PAGE FADE-IN ON NAVIGATION (new) ============ */
+@keyframes pageFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+.hero, .page-hero, .section {
+  animation: pageFadeIn 0.35s ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero, .page-hero, .section { animation: none; }
+}
+
+/* ============ CONTACT PAGE COMPRESSION (new) ============ */
+.page-hero.contact-hero-compact { padding: 40px 0 24px; }
+.section.contact-body-compact { padding: 40px 0 36px; }
+.contact-body-compact .contact-intro { margin-bottom: 22px; }
+.contact-body-compact .contact-cards { margin-bottom: 0; }
+@media (max-width: 860px) {
+  .page-hero.contact-hero-compact { padding: 32px 0 20px; }
+  .section.contact-body-compact { padding: 32px 0 28px; }
 }

@@ -4,7 +4,7 @@ import config from '../data/config.json'
 export default function Contact() {
   return (
     <>
-      <section className="page-hero">
+      <section className="page-hero contact-hero-compact">
         <div className="page-hero-inner">
           <div className="page-hero-eyebrow">Contact us</div>
           <h1>Get in contact</h1>
@@ -12,7 +12,7 @@ export default function Contact() {
         </div>
       </section>
 
-      <section className="section cream">
+      <section className="section cream contact-body-compact">
         <div className="contact-intro">
           <p>You can reach us using the contact details below, or send us a message using the enquiry form. We typically respond within 2 working days and can usually arrange an initial call within the week.</p>
         </div>

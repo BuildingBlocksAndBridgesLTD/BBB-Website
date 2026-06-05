@@ -47,7 +47,7 @@ export default function Home() {
 
             <div className="hero-testimonial">
               <div className="hero-testimonial-mark">&ldquo;</div>
-              <div className="hero-testimonial-text">Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence and express themselves through rhythm and sound.</div>
+              <div className="hero-testimonial-text">Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence and express themselves.</div>
               <div className="hero-testimonial-attr">— Music programme partner</div>
             </div>
 
