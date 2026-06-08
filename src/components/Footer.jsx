@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer-top">
           <div className="footer-brand-block">
             <Link to="/" className="nav-brand">
-              <div className="nav-logo">BB</div>
+              <div className="nav-logo">BBB</div>
               <div className="nav-brand-text">
                 <div className="nav-brand-name">Building Blocks & Bridges LTD</div>
               </div>

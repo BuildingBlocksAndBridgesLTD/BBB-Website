@@ -21,7 +21,7 @@ export default function Nav() {
     <nav className="nav">
       <div className="nav-inner">
         <Link to="/" className="nav-brand" onClick={close}>
-          <div className="nav-logo">BB</div>
+          <div className="nav-logo">BBB</div>
           <div className="nav-brand-text">
             <div className="nav-brand-name">Building Blocks & Bridges</div>
             <div className="nav-brand-tag">Youth mentoring & enrichment</div>
