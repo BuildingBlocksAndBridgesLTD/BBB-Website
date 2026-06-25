@@ -82,7 +82,7 @@ export default function Home() {
         <div className="mission">
           <div className="section-eyebrow">Our mission</div>
           <h2>Helping young people believe, build and belong</h2>
-          <p>Founded by <strong>Jamah Lynam</strong>, Building Blocks and Bridges combines mentoring, music and sports enrichment, and therapeutic experiences to unlock what young people are truly capable of. Rooted in lived experience and a genuine understanding of barriers to learning, our work builds the confidence, resilience and emotional wellbeing that helps every young person — especially those with additional needs — thrive inside and outside school.</p>
+          <p>Founded by <strong>Jamah Lynam</strong>, Building Blocks and Bridges combines mentoring, music and sports enrichment, and therapeutic experiences to unlock what young people are truly capable of. Rooted in lived experience and a genuine understanding of barriers to learning, our work builds the confidence, resilience and emotional wellbeing that helps every young person, especially those with additional needs, thrive inside and outside school.</p>
           
           <Link to="/who-we-are" className="btn">Meet Jamah <i className="ti ti-arrow-right"></i></Link>
         </div>
