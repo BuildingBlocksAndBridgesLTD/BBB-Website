@@ -42,7 +42,7 @@
     },
     {
       "name": "G Gibbons",
-      "role": "Video Producer, Bounce Video",
+      "role": "Film Producer, Online Safety Project (Thames Valley Police)",
       "initials": "GG",
       "quote": "Congrats Jamah! You are filling a huge gap in our school system. If only every school in the UK had you.",
       "color": "amber",
@@ -71,4 +71,14 @@
       "quote": "We spent too long not seeing a smile on his face on Mondays. We love seeing the smile return!\n\nWe know you will be one of the influences in his life who we won't forget.",
       "color": "orange",
       "featured": false
+    },
+    {
+      "name": "Music programme partner",
+      "role": "School Partner",
+      "initials": "MP",
+      "quote": "Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence and express themselves.",
+      "color": "blue",
+      "featured": false
     }
+  ]
+}
