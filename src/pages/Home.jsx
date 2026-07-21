@@ -48,7 +48,7 @@ export default function Home() {
             <div className="hero-testimonial">
               <div className="hero-testimonial-mark">&ldquo;</div>
               <div className="hero-testimonial-text">You are filling a huge gap in our school system. If only every school in the UK had you.</div>
-              <div className="hero-testimonial-attr">— Grace Gibbons, Film Producer, Online Safety Project (Thames Valley Police)</div>
+              <div className="hero-testimonial-attr">&#8212; Grace Gibbons, Film Producer, Online Safety Project (Thames Valley Police)</div>
               </div>
 
   
