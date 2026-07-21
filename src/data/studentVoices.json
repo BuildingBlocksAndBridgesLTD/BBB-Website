@@ -1,21 +1,14 @@
 {
   "items": [
-    { "quote": "Before, I was too shy to perform, but now I feel confident and proud sharing my music with others.", "age": 13, "pathway": "music" },
-    { "quote": "Playing the drums helps me calm down, and I don't get as frustrated when I make mistakes anymore.", "age": 14, "pathway": "music" },
-    { "quote": "Playing songs together taught me to listen to others and take turns — it's like being part of a team.", "age": 12, "pathway": "music" },
-    { "quote": "Writing my own lyrics helped me say what I was feeling. It made me realise my voice matters.", "age": 15, "pathway": "music" },
-    { "quote": "I never thought I could play or rap but now I believe in myself.", "age": 10, "pathway": "music" },
-    { "quote": "Talking with my mentor helps me calm down and think before I react. I feel like I can say what's on my mind without being judged.", "age": 14, "pathway": "mentoring" },
-    { "quote": "I didn't know how to handle arguments with teachers and even friends. Now I know how to take a step back and explain how I feel.", "age": 13, "pathway": "mentoring" },
-    { "quote": "My mentor helps me make sense of school stuff and life stuff. It's nice to have someone who really listens.", "age": 12, "pathway": "mentoring" },
-    { "quote": "I've learned that it's okay to ask for help and that thinking things through makes it easier to solve problems.", "age": 15, "pathway": "mentoring" },
-    { "quote": "I'm learning to stop and think before I react. Now I try to calm down and talk about my frustrations instead.", "age": 14, "pathway": "sport" },
-    { "quote": "Before, I got angry when others couldn't play like me. Now I know everyone has their own strengths, and it's about working together and encouraging each other.", "age": 13, "pathway": "sport" },
-    { "quote": "I didn't want to try at first because I thought I'd be bad at it. But I gave it a go and now I'm more confident and keep trying. Trusting the process.", "age": 13, "pathway": "sport" },
-    { "quote": "It's not always about winning, it's about trying to be better every day.", "age": 9, "pathway": "sport" },
-    { "quote": "I feel calm when I'm with the horses. They're really patient and I can take my time without worrying about getting it wrong.", "age": 13, "pathway": "animal" },
-    { "quote": "Feeding the animals makes me feel responsible. I'm happy to see them happy because of me.", "age": 12, "pathway": "animal" },
-    { "quote": "Being outside with the animals is fun and peaceful. I've learned to be more calm, patient and caring.", "age": 14, "pathway": "animal" },
-    { "quote": "I ask to do jobs at the stables and they say I'm a hard worker. That makes me proud.", "age": 9, "pathway": "animal" }
+    { "quote": "I was inspired to play drums once I saw Jamah play them. I also appreciate how much confidence and help Jamah has given me.", "age": 11, "pathway": "music" },
+    { "quote": "Drumming makes me feel calm and happy. It makes me inspired and I am glad I have such a good teacher.", "age": 10, "pathway": "music" },
+    { "quote": "Music makes me feel happy and good. I became more confident and love to make rap with Jamah.", "age": 9, "pathway": "music" },
+    { "quote": "One day I hope to be a drummer just like Jamah, he makes it look easy.", "age": 10, "pathway": "music" },
+    { "quote": "My mentor helps me make sense of school stuff and life stuff. It is nice to have someone who really listens.", "age": 12, "pathway": "mentoring" },
+    { "quote": "I have learned that it is okay to ask for help and that thinking things through makes it easier to solve problems.", "age": 15, "pathway": "mentoring" },
+    { "quote": "I am learning to stop and think before I react. Now I try to calm down and talk about my frustrations instead.", "age": 14, "pathway": "sport" },
+    { "quote": "It is not always about winning, it is about trying to be better every day.", "age": 9, "pathway": "sport" },
+    { "quote": "I feel calm when I am with the horses. They are really patient and I can take my time without worrying about getting it wrong.", "age": 13, "pathway": "animal" },
+    { "quote": "Being outside with the animals is fun and peaceful. I have learned to be more calm, patient and caring.", "age": 14, "pathway": "animal" }
   ]
 }
