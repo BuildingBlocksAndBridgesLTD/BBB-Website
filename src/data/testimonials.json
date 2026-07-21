@@ -2,35 +2,73 @@
   "items": [
     {
       "name": "J MacArthur",
-      "role": "Headteacher, The Willows",
+      "role": "Headteacher, The Willows Primary School",
       "initials": "JM",
-      "quote": "Jamah understands that children have different starting points and individual needs. He takes the time to observe and understand these — children feel included and are engaged as a result. They respond well to Jamah and they understand that he wants them to each fulfil their potential. Jamah successfully adapts lessons and his instructions/teaching to meet the needs of children with SEND.\n\nJamah has excellent subject knowledge but more importantly he is skilled at communicating his knowledge to children of all abilities and of varying needs.",
+      "quote": "The impact Jamah has had on our children, our curriculum, and our community is positive and considerable.\n\nHe understands that children have different starting points and individual needs. Children feel included and are engaged as a result. Jamah successfully adapts lessons and his teaching to meet the needs of children with SEND. The take up for after school clubs is significant — we are oversubscribed with a waiting list.",
       "color": "purple",
       "featured": true
     },
     {
       "name": "S Cooke",
-      "role": "Headteacher, The Avenue",
+      "role": "Headteacher, The Avenue School",
       "initials": "SC",
-      "quote": "Through the motivating vehicles of sport, cooking and music Jamah has supported our pupils as a mentor. Encouraging them to reflect, behave appropriately, engage in their learning, understand compromise, and develop improved social and life skills, whilst making positive choices in each aspect of their life.\n\nJamah has proved to be an excellent role model in terms of his presentation, communication and calm approach.",
+      "quote": "Jamah's transition into the school, working with groups and individual complex learners, was seamless. He immediately built a connection with pupils and staff alike.\n\nThrough drumming, steel pans, percussion, rap and poetry sessions he has allowed our pupils to explore their creativity, develop improved skills, self-confidence and discipline. Jamah has had a genuine positive impact on the lives of our learners, with pupils keen to see him each week.",
       "color": "orange",
       "featured": false
     },
     {
       "name": "C Husbands",
-      "role": "Manager, Brighter Steps",
+      "role": "House Manager, Brighter Steps Ltd",
       "initials": "CH",
-      "quote": "Jamah has played a vital role in supporting the wellbeing, development, and day-to-day care of the young people in our services. His approach is always person-centered, respectful, and tailored to the unique needs of each individual. Whether assisting with educational engagement, emotional regulation, or daily living skills, Jamah brings a calm and empathetic presence that has a positive impact on the young people he supports.\n\nJamah displays remarkable insight in balancing empathy and support with appropriate boundaries, a quality that stood out particularly in his work within school settings.",
+      "quote": "Jamah brings a calm and empathetic presence that has a positive impact on the young people he supports.\n\nJamah has shown particular strength in building trusting relationships with children and young people who may have experienced significant trauma or instability. His time at Brighter Steps has been marked by dedication, resilience, and a genuine passion for making a difference in the lives of vulnerable young people.",
       "color": "blue",
       "featured": false
     },
     {
-      "name": "M. Genis",
+      "name": "M Genis",
       "role": "Artistic Director, CultureMix Arts",
       "initials": "MG",
-      "quote": "Over the years, Jamah has developed into a dynamic and inspirational educator. His unique approach blends music, sport, and animal welfare to positively influence young people, particularly those with special educational needs. His passion and empathy consistently shine through, making a meaningful impact on the lives of those he works with.",
+      "quote": "Jamah has performed at high-profile events including live broadcasts on BBC and ITV, WOMAD Festival, and the iconic Notting Hill Carnival.\n\nHis unique approach blends music, sport, and animal welfare to positively influence young people, particularly those with special educational needs. He brings not only skill and professionalism but also heart and purpose to everything he does.",
       "color": "green",
       "featured": false
+    },
+    {
+      "name": "Anna",
+      "role": "Head of Performing Arts, The Castle School, Newbury",
+      "initials": "A",
+      "quote": "Jamah has a natural warmth, energy and authenticity that enables him to connect with every student, regardless of their individual needs or abilities. He quickly earns their trust and respect, creating an environment where pupils feel safe to take risks, challenge themselves and succeed.\n\nJamah is one of the most inspiring visiting practitioners we have worked with. His passion for young people, belief in their potential and ability to bring out the very best in them leaves a lasting impact that extends far beyond music.",
+      "color": "pink",
+      "featured": false
+    },
+    {
+      "name": "G Gibbons",
+      "role": "Video Producer, Bounce Video",
+      "initials": "GG",
+      "quote": "Congrats Jamah! You are filling a huge gap in our school system. If only every school in the UK had you.",
+      "color": "amber",
+      "featured": false
+    },
+    {
+      "name": "Sian",
+      "role": "Parent, Steel Pans",
+      "initials": "S",
+      "quote": "He connects brilliantly with kids, even on days where they are tired or just not having the best day, Jamah manages to bring the best out of them.\n\nJamah makes something that looks like it should be chaos feel calm, structured and most importantly fun.",
+      "color": "purple",
+      "featured": false
+    },
+    {
+      "name": "Bibi (Hannah)",
+      "role": "Grandmother of George and Thomas",
+      "initials": "BH",
+      "quote": "Your dedication goes far beyond simply teaching music. Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence, and express themselves.\n\nThe discipline, focus, teamwork, and self-belief you help develop will stay with them well beyond their lessons.",
+      "color": "green",
+      "featured": false
+    },
+    {
+      "name": "Rob and Jo",
+      "role": "Parents, Dove House Academy",
+      "initials": "RJ",
+      "quote": "We spent too long not seeing a smile on his face on Mondays. We love seeing the smile return!\n\nWe know you will be one of the influences in his life who we won't forget.",
+      "color": "orange",
+      "featured": false
     }
-  ]
-}
