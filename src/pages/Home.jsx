@@ -47,8 +47,9 @@ export default function Home() {
 
             <div className="hero-testimonial">
               <div className="hero-testimonial-mark">&ldquo;</div>
-              <div className="hero-testimonial-text">Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence and express themselves.</div>
-              <div className="hero-testimonial-attr">— Music programme partner</div>
+              <div className="hero-testimonial-text">You are filling a huge gap in our school system. If only every school in the UK had you.</div>
+<div hero-testimonial-attr"> — Grace Gibbons, Film Producer, Online Safety Project (Thames Valley Police)</div>
+            
             </div>
 
             <p className="hero-sub">Inclusive programmes for young people aged 8 to 18, delivered in schools, alternative provision and community settings.</p>
