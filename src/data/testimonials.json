@@ -1,12 +1,20 @@
 {
   "items": [
     {
+      "name": "Rob and Jo",
+      "role": "Parents, Dove House Academy",
+      "initials": "RJ",
+      "quote": "We spent too long not seeing a smile on his face on Mondays. We love seeing the smile return!\n\nWe know you will be one of the influences in his life who we won't forget.",
+      "color": "orange",
+      "featured": true
+    },
+    {
       "name": "J MacArthur",
       "role": "Headteacher, The Willows Primary School",
       "initials": "JM",
       "quote": "The impact Jamah has had on our children, our curriculum, and our community is positive and considerable.\n\nHe understands that children have different starting points and individual needs. Children feel included and are engaged as a result. Jamah successfully adapts lessons and his teaching to meet the needs of children with SEND. He is calm, clear and consistent, and his relationships with children are positive and respectful.\n\nThe take up for after school clubs is significant — we are oversubscribed with a waiting list.",
       "color": "purple",
-      "featured": true
+      "featured": false
     },
     {
       "name": "S Cooke",
@@ -62,14 +70,6 @@
       "initials": "BH",
       "quote": "Your dedication goes far beyond simply teaching music. Through your passion, patience, and encouragement, you create a supportive and inspiring environment where young people can learn, build confidence, and express themselves.\n\nThe discipline, focus, teamwork, and self-belief you help develop will stay with them well beyond their lessons.",
       "color": "green",
-      "featured": false
-    },
-    {
-      "name": "Rob and Jo",
-      "role": "Parents, Dove House Academy",
-      "initials": "RJ",
-      "quote": "We spent too long not seeing a smile on his face on Mondays. We love seeing the smile return!\n\nWe know you will be one of the influences in his life who we won't forget.",
-      "color": "orange",
       "featured": false
     },
     {
