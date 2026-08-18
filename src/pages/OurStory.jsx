@@ -12,7 +12,7 @@ export default function OurStory() {
 
       <section className="section cream">
         <div className="privacy-content">
-          <p>At Building Blocks &amp; Bridges, we believe every young person has potential &mdash; sometimes they just need the right environment, the right opportunity, and someone who believes in them.</p>
+          <p>At Building Blocks &amp; Bridges, we believe every young person has potential. Sometimes they just need the right environment, the right opportunity, and someone who believes in them.</p>
 
           <p>That belief comes from my own journey.</p>
 
@@ -24,7 +24,8 @@ export default function OurStory() {
 
           <p>Those experiences inspired me to create Building Blocks &amp; Bridges.</p>
 
-          <p>Today, I work alongside schools, families and services to support young people through mentoring, music and sport. Every session is designed to build confidence, resilience, emotional wellbeing, communication and a sense of belonging &mdash; helping young people recognise strengths they may not yet see in themselves.</p>
+          <p>Today, I work alongside schools, families and services to support young people through mentoring, music and sport. Every session is designed to build confidence, resilience, emotional wellbeing, communication and a sense of belonging, helping young people recognise strengths they may not yet see in themselves.</p>
+
 
           <p>Building Blocks &amp; Bridges was founded on one simple belief: every young person deserves someone who sees their potential before they see it themselves.</p>
 
