@@ -31,6 +31,7 @@ export default function Footer() {
                 <li><Link to="/who-we-are">Who we are</Link></li>
                 <li><Link to="/get-in-contact">Contact us</Link></li>
                 <li><Link to="/privacy-policy">Privacy policy</Link></li>
+                <li><Link to="/safeguarding-policy">Safeguarding policy</Link></li>
               </ul>
             </div>
             <div className="footer-col">
