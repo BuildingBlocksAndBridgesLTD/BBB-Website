@@ -95,7 +95,7 @@ export default function Home() {
   <div className="mission" style={{ textAlign: 'center' }}>
     <div className="section-eyebrow">Our story</div>
     <h2>Every young person has a story</h2>
-    <<p>Building Blocks and Bridges was born from Jamah's own journey, growing up, finding his way through music and sport, and discovering that his circumstances didn't have to define his future. Read the story behind why this work matters so much to him.</p>
+    <p>Building Blocks and Bridges was born from Jamah's own journey, growing up, finding his way through music and sport, and discovering that his circumstances didn't have to define his future. Read the story behind why this work matters so much to him.</p>
     <Link to="/our-story" className="btn btn-primary">Read our story <i className="ti ti-arrow-right"></i></Link>
   </div>
 </section>
