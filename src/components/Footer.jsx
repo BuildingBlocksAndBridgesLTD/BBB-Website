@@ -29,6 +29,7 @@ export default function Footer() {
               <h5>Company</h5>
               <ul>
                 <li><Link to="/who-we-are">Who we are</Link></li>
+                <li><Link to="/our-story">Our story</Link></li>
                 <li><Link to="/get-in-contact">Contact us</Link></li>
                 <li><Link to="/privacy-policy">Privacy policy</Link></li>
                 <li><Link to="/safeguarding-policy">Safeguarding policy</Link></li>
