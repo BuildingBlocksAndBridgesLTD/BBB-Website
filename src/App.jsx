@@ -10,6 +10,7 @@ import AnimalTherapy from './pages/AnimalTherapy'
 import WhoWeAre from './pages/WhoWeAre'
 import Contact from './pages/Contact'
 import Privacy from './pages/Privacy'
+import OurStory from './pages/OurStory'
 import Safeguarding from './pages/Safeguarding'
 
 function ScrollToTop() {
@@ -32,6 +33,7 @@ export default function App() {
         <Route path="/who-we-are" element={<WhoWeAre />} />
         <Route path="/get-in-contact" element={<Contact />} />
         <Route path="/privacy-policy" element={<Privacy />} />
+        <Route path="/our-story" element={<OurStory />} />
         <Route path="/safeguarding-policy" element={<Safeguarding />} />
         <Route path="*" element={<Home />} />
       </Routes>
