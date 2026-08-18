@@ -10,6 +10,7 @@ import AnimalTherapy from './pages/AnimalTherapy'
 import WhoWeAre from './pages/WhoWeAre'
 import Contact from './pages/Contact'
 import Privacy from './pages/Privacy'
+import Safeguarding from './pages/Safeguarding'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -31,6 +32,7 @@ export default function App() {
         <Route path="/who-we-are" element={<WhoWeAre />} />
         <Route path="/get-in-contact" element={<Contact />} />
         <Route path="/privacy-policy" element={<Privacy />} />
+        <Route path="/safeguarding-policy" element={<Safeguarding />} />
         <Route path="*" element={<Home />} />
       </Routes>
       <Footer />
